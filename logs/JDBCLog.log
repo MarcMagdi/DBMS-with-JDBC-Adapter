@@ -1,0 +1,669 @@
+[INFO ] 2016-12-17 11:11:41.370 LogService - Create database command to create the database amrtest
+[INFO ] 2016-12-17 11:11:41.524 LogService - Operation Successful
+[INFO ] 2016-12-17 11:11:47.809 LogService - Use database command to use the database amrtest
+[INFO ] 2016-12-17 11:11:47.809 LogService - Operation Successful
+[INFO ] 2016-12-17 11:12:10.807 LogService - Create table command to create the table testtable in the database null
+[INFO ] 2016-12-17 11:12:11.118 LogService - Operation Successful
+[INFO ] 2016-12-17 11:12:54.349 LogService - Insert command on the table testtable in the database null
+[INFO ] 2016-12-17 11:12:54.369 LogService - Operation Successful
+[INFO ] 2016-12-17 11:13:15.352 LogService - Select from table command on the table testtable in the database null
+[INFO ] 2016-12-17 11:13:15.362 LogService - Operation Successful
+[INFO ] 2016-12-17 11:13:46.792 LogService - Drop table command to drop the table testtable in the database null
+[INFO ] 2016-12-17 11:13:46.792 LogService - Operation Successful
+[INFO ] 2016-12-17 11:14:00.011 LogService - Create table command to create the table testtable in the database null
+[ERROR] 2016-12-17 11:14:00.011 LogService - Table already exist.
+[INFO ] 2016-12-17 11:14:14.811 LogService - Drop table command to drop the table testtable in the database null
+[INFO ] 2016-12-17 11:14:14.821 LogService - Operation Successful
+[INFO ] 2016-12-17 11:14:21.302 LogService - Drop table command to drop the table testtable in the database null
+[INFO ] 2016-12-17 11:14:21.302 LogService - Operation Successful
+[INFO ] 2016-12-17 11:15:24.782 LogService - Drop table command to drop the table testtable in the database null
+[INFO ] 2016-12-17 11:15:24.782 LogService - Operation Successful
+[INFO ] 2016-12-17 11:16:07.385 LogService - Use database command to use the database amrtest
+[INFO ] 2016-12-17 11:16:07.390 LogService - Operation Successful
+[INFO ] 2016-12-17 11:16:11.394 LogService - Select from table command on the table testtable in the database null
+[INFO ] 2016-12-17 11:16:11.545 LogService - Operation Successful
+[INFO ] 2016-12-17 11:16:21.103 LogService - Drop table command to drop the table testtable in the database null
+[INFO ] 2016-12-17 11:16:21.103 LogService - Operation Successful
+[INFO ] 2016-12-17 11:22:42.351 LogService - Select from table command on the table testtable in the database null
+[INFO ] 2016-12-17 11:22:42.361 LogService - Operation Successful
+[INFO ] 2016-12-17 11:25:49.504 LogService - Select from table command on the table testtable in the database null
+[ERROR] 2016-12-17 11:25:49.509 LogService - Unkown database.
+[INFO ] 2016-12-17 11:25:59.501 LogService - Use database command to use the database amrtest
+[INFO ] 2016-12-17 11:25:59.503 LogService - Operation Successful
+[INFO ] 2016-12-17 11:26:04.732 LogService - Select from table command on the table testtable in the database null
+[INFO ] 2016-12-17 11:27:56.751 LogService - Use database command to use the database amrtest
+[ERROR] 2016-12-17 11:27:56.761 LogService - Unkown database.
+[INFO ] 2016-12-17 11:28:26.355 LogService - Create database command to create the database amr2test2
+[INFO ] 2016-12-17 11:28:26.355 LogService - Operation Successful
+[ERROR] 2016-12-17 11:29:23.766 LogService - Unknown column data type.
+[INFO ] 2016-12-17 11:29:37.865 LogService - Create table command to create the table test in the database null
+[ERROR] 2016-12-17 11:29:37.865 LogService - Unkown database.
+[INFO ] 2016-12-17 11:29:43.421 LogService - Use database command to use the database amr2test2
+[INFO ] 2016-12-17 11:29:43.422 LogService - Operation Successful
+[ERROR] 2016-12-17 11:29:43.645 LogService - Wrong syntax used.
+[INFO ] 2016-12-17 11:29:58.385 LogService - Create table command to create the table test in the database null
+[INFO ] 2016-12-17 11:29:58.505 LogService - Operation Successful
+[INFO ] 2016-12-17 11:30:24.252 LogService - Drop table command to drop the table test in the database null
+[INFO ] 2016-12-17 11:30:24.257 LogService - Operation Successful
+[INFO ] 2016-12-17 11:30:30.553 LogService - Select from table command on the table tet in the database null
+[ERROR] 2016-12-17 11:30:30.553 LogService - Unkown database.
+[INFO ] 2016-12-17 11:30:39.492 LogService - Select from table command on the table test in the database null
+[ERROR] 2016-12-17 11:30:39.492 LogService - Unkown database.
+[INFO ] 2016-12-17 11:30:47.543 LogService - Use database command to use the database amr2test2
+[INFO ] 2016-12-17 11:30:47.543 LogService - Operation Successful
+[INFO ] 2016-12-17 11:30:53.778 LogService - Select from table command on the table test in the database null
+[ERROR] 2016-12-17 11:30:53.778 LogService - Unkown database.
+[INFO ] 2016-12-17 11:41:11.038 LogService - Use database command to use the database amrtest
+[ERROR] 2016-12-17 11:41:11.048 LogService - Unkown database.
+[ERROR] 2016-12-17 11:41:21.142 LogService - Wrong syntax used.
+[INFO ] 2016-12-17 11:41:29.180 LogService - Create database command to create the database amrtest
+[INFO ] 2016-12-17 11:41:29.180 LogService - Operation Successful
+[INFO ] 2016-12-17 11:41:32.741 LogService - Use database command to use the database amrtest
+[INFO ] 2016-12-17 11:41:32.741 LogService - Operation Successful
+[INFO ] 2016-12-17 11:41:49.695 LogService - Create table command to create the table test in the database null
+[INFO ] 2016-12-17 11:41:49.805 LogService - Operation Successful
+[INFO ] 2016-12-17 11:41:54.174 LogService - Select from table command on the table tt in the database null
+[ERROR] 2016-12-17 11:41:54.174 LogService - Unknown table.
+[INFO ] 2016-12-17 11:42:01.475 LogService - Use database command to use the database amrtest
+[INFO ] 2016-12-17 11:42:01.475 LogService - Operation Successful
+[INFO ] 2016-12-17 11:42:05.405 LogService - Select from table command on the table tt in the database null
+[ERROR] 2016-12-17 11:42:05.405 LogService - Unknown table.
+[INFO ] 2016-12-17 11:44:01.379 LogService - Create database command to create the database newone
+[INFO ] 2016-12-17 11:44:01.389 LogService - Operation Successful
+[INFO ] 2016-12-17 11:44:31.353 LogService - Use database command to use the database newone
+[INFO ] 2016-12-17 11:44:31.353 LogService - Operation Successful
+[INFO ] 2016-12-17 11:44:40.127 LogService - Create table command to create the table test in the database null
+[INFO ] 2016-12-17 11:44:40.227 LogService - Operation Successful
+[INFO ] 2016-12-17 11:44:43.563 LogService - Select from table command on the table test in the database null
+[INFO ] 2016-12-17 11:44:43.583 LogService - Operation Successful
+[ERROR] 2016-12-17 11:44:50.916 LogService - Wrong syntax used.
+[INFO ] 2016-12-17 11:44:54.241 LogService - Drop table command to drop the table test in the database null
+[INFO ] 2016-12-17 11:44:54.251 LogService - Operation Successful
+[INFO ] 2016-12-17 21:19:43.942 LogService - Create database command to create the database mydb
+[INFO ] 2016-12-17 21:19:43.971 LogService - Operation Successful
+[INFO ] 2016-12-17 21:19:51.541 LogService - Use database command to use the database mydb
+[INFO ] 2016-12-17 21:19:51.541 LogService - Operation Successful
+[INFO ] 2016-12-17 21:39:58.910 LogService - Create database command to create the database test
+[INFO ] 2016-12-17 21:39:58.913 LogService - Operation Successful
+[INFO ] 2016-12-17 21:40:40.736 LogService - Create table command to create the table testtable in the database null
+[ERROR] 2016-12-17 21:40:40.739 LogService - Unkown database.
+[INFO ] 2016-12-17 21:40:47.398 LogService - Use database command to use the database test
+[INFO ] 2016-12-17 21:40:47.398 LogService - Operation Successful
+[INFO ] 2016-12-17 21:40:54.308 LogService - Create table command to create the table testtable in the database null
+[INFO ] 2016-12-17 21:40:54.373 LogService - Operation Successful
+[INFO ] 2016-12-17 21:44:05.773 LogService - Use database command to use the database test
+[INFO ] 2016-12-17 21:44:05.776 LogService - Operation Successful
+[INFO ] 2016-12-17 21:44:18.445 LogService - Create table command to create the table testjson in the database null
+[INFO ] 2016-12-17 21:44:18.510 LogService - Operation Successful
+[INFO ] 2016-12-17 22:49:20.650 LogService - Create table command to create the table project in the database null
+[ERROR] 2016-12-17 22:49:20.653 LogService - Unkown database.
+[INFO ] 2016-12-17 22:49:20.658 LogService - Drop table command to drop the table project in the database null
+[ERROR] 2016-12-17 22:49:20.658 LogService - Unknown table.
+[INFO ] 2016-12-17 22:49:20.669 LogService - Select from table command on the table project in the database null
+[ERROR] 2016-12-17 22:49:20.670 LogService - Unkown database.
+[INFO ] 2016-12-17 22:49:20.673 LogService - Create table command to create the table project in the database null
+[ERROR] 2016-12-17 22:49:20.673 LogService - Unkown database.
+[INFO ] 2016-12-17 22:49:20.678 LogService - Create table command to create the table table_name12 in the database null
+[ERROR] 2016-12-17 22:49:20.678 LogService - Unkown database.
+[INFO ] 2016-12-17 22:49:20.681 LogService - Create table command to create the table table_name13 in the database null
+[ERROR] 2016-12-17 22:49:20.681 LogService - Unkown database.
+[INFO ] 2016-12-17 22:49:20.683 LogService - Create table command to create the table table_name12 in the database null
+[ERROR] 2016-12-17 22:49:20.684 LogService - Unkown database.
+[INFO ] 2016-12-17 22:50:38.859 LogService - Create table command to create the table project in the database null
+[ERROR] 2016-12-17 22:50:38.860 LogService - Unkown database.
+[INFO ] 2016-12-17 22:50:38.863 LogService - Drop table command to drop the table project in the database null
+[ERROR] 2016-12-17 22:50:38.863 LogService - Unknown table.
+[INFO ] 2016-12-17 22:50:38.870 LogService - Select from table command on the table project in the database null
+[ERROR] 2016-12-17 22:50:38.870 LogService - Unkown database.
+[INFO ] 2016-12-17 22:50:38.872 LogService - Create table command to create the table project in the database null
+[ERROR] 2016-12-17 22:50:38.872 LogService - Unkown database.
+[INFO ] 2016-12-17 22:50:38.874 LogService - Create table command to create the table table_name12 in the database null
+[ERROR] 2016-12-17 22:50:38.874 LogService - Unkown database.
+[INFO ] 2016-12-17 22:50:38.876 LogService - Create table command to create the table table_name12 in the database null
+[ERROR] 2016-12-17 22:50:38.876 LogService - Unkown database.
+[INFO ] 2016-12-17 22:50:38.877 LogService - Create table command to create the table table_name1 in the database null
+[ERROR] 2016-12-17 22:50:38.877 LogService - Unkown database.
+[INFO ] 2016-12-17 23:09:26.640 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:26.642 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.650 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:26.650 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.653 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:26.729 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.730 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:26.731 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.735 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:26.735 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.737 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:26.743 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.745 LogService - Drop table command to drop the table project in the database null
+[INFO ] 2016-12-17 23:09:26.768 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.769 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:26.769 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.773 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:26.773 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.775 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:26.783 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.786 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:26.802 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.805 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:26.805 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.807 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:26.807 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.808 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:26.818 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.833 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:26.872 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.877 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:26.922 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.923 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:26.962 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.963 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:26.963 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.964 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:26.965 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.965 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:26.972 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.973 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:26.992 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:26.993 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.040 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.043 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.096 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.097 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.150 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.155 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.207 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.208 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.250 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.251 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:27.251 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.252 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:27.252 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.253 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:27.269 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.270 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.288 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.289 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.323 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.323 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.364 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.370 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.419 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.420 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.488 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.489 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.526 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.526 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:27.527 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.527 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:27.527 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.528 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:27.533 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.534 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.570 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.571 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.593 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.597 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.632 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.633 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.689 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.694 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.764 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:27.764 LogService - Delete rows command on the table project in the database null
+[INFO ] 2016-12-17 23:09:27.805 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.534 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:45.535 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.545 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:45.545 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.548 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:45.619 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.620 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:45.620 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.625 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:45.626 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.627 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:45.633 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.635 LogService - Drop table command to drop the table project in the database null
+[INFO ] 2016-12-17 23:09:45.636 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.636 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:45.636 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.640 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:45.640 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.642 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:45.647 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.651 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:45.661 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.664 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:45.664 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.666 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:45.666 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.667 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:45.672 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.684 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:45.716 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.716 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:45.747 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.749 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:45.781 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.782 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:45.782 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.784 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:45.784 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.784 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:45.791 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.792 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:45.810 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.811 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:45.851 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.852 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:45.887 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.888 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:45.926 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.926 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:45.956 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.956 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:45.985 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.986 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:45.986 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.987 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:45.987 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.988 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:45.994 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:45.995 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.012 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.013 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.037 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.038 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.077 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.083 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.121 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.122 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.145 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.145 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.173 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.173 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:09:46.174 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.174 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:09:46.174 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.175 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:09:46.180 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.181 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.205 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.205 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.224 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.224 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.248 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.248 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.288 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.290 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.329 LogService - Operation Successful
+[INFO ] 2016-12-17 23:09:46.329 LogService - Delete rows command on the table project in the database null
+[INFO ] 2016-12-17 23:09:46.358 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.199 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:19:30.202 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.210 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:19:30.211 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.215 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:19:30.303 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.303 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:19:30.304 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.309 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:19:30.309 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.311 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:19:30.318 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.320 LogService - Drop table command to drop the table project in the database null
+[INFO ] 2016-12-17 23:19:30.321 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.321 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:19:30.322 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.326 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:19:30.326 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.327 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:19:30.333 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.337 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.352 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.355 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:19:30.371 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.375 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:19:30.375 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.376 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:19:30.382 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.393 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.440 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.441 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.484 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.486 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.532 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.533 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:19:30.533 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.534 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:19:30.534 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.535 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:19:30.542 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.543 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.561 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.562 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.616 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.619 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.672 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.673 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.725 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.726 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.760 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.761 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.811 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.815 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:19:30.815 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.816 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:19:30.817 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.828 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:19:30.838 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.840 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.876 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.880 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.910 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.912 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.950 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.953 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:30.996 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:30.998 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:19:31.053 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.054 LogService - Delete rows command on the table project in the database null
+[INFO ] 2016-12-17 23:19:31.113 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.113 LogService - Drop table command to drop the table project in the database null
+[INFO ] 2016-12-17 23:19:31.114 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.114 LogService - Drop database command to drop the database testdb_create
+[INFO ] 2016-12-17 23:19:31.114 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.117 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:19:31.136 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.137 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:19:31.137 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.137 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:19:31.145 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.146 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:31.173 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.174 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:31.193 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.194 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:31.221 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.222 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:19:31.255 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.256 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:19:31.293 LogService - Operation Successful
+[INFO ] 2016-12-17 23:19:31.294 LogService - Delete rows command on the table project in the database null
+[INFO ] 2016-12-17 23:19:31.324 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:15.982 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:21:15.983 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:15.994 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:21:15.994 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:15.997 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:21:16.083 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.084 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:21:16.133 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.138 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:21:16.138 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.140 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:21:16.148 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.150 LogService - Drop table command to drop the table project in the database null
+[INFO ] 2016-12-17 23:21:16.150 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.151 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:21:16.174 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.178 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:21:16.178 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.179 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:21:16.185 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.188 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.201 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.203 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:21:16.211 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.212 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:21:16.212 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.213 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:21:16.232 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.242 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.282 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.283 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.315 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.317 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.353 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.354 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:21:16.373 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.375 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:21:16.375 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.376 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:21:16.383 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.384 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.404 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.405 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.454 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.454 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.514 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.515 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.562 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.562 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.602 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.602 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.648 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.659 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:21:16.665 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.666 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:21:16.666 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.667 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:21:16.682 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.683 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.716 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.718 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.768 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.770 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.816 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.817 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.861 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.863 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:21:16.944 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:16.945 LogService - Delete rows command on the table project in the database null
+[INFO ] 2016-12-17 23:21:17.002 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:17.002 LogService - Drop table command to drop the table project in the database null
+[INFO ] 2016-12-17 23:21:17.002 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:17.002 LogService - Drop database command to drop the database testdb_create
+[INFO ] 2016-12-17 23:21:17.003 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:17.005 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:21:17.006 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:17.006 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:21:17.007 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:17.007 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:21:17.013 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:17.014 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:17.029 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:17.029 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:17.053 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:17.053 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:17.095 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:17.096 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:21:17.162 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:17.165 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:21:17.214 LogService - Operation Successful
+[INFO ] 2016-12-17 23:21:17.215 LogService - Delete rows command on the table project in the database null
+[INFO ] 2016-12-17 23:21:17.251 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.093 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:23:42.094 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.103 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:23:42.103 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.106 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:23:42.194 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.195 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:23:42.195 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.201 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:23:42.201 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.203 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:23:42.209 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.211 LogService - Drop table command to drop the table project in the database null
+[INFO ] 2016-12-17 23:23:42.212 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.212 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:23:42.212 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.217 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:23:42.217 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.219 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:23:42.224 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.229 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.243 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.246 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:23:42.247 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.250 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:23:42.250 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.251 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:23:42.265 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.289 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.326 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.327 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.367 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.369 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.417 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.417 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:23:42.418 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.423 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:23:42.423 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.424 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:23:42.439 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.440 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.460 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.461 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.501 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.502 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.550 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.553 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.599 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.603 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.631 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.631 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.654 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.655 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:23:42.668 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.669 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:23:42.669 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.670 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:23:42.676 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.677 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.692 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.692 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.714 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.714 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.740 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.740 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.778 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.780 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.816 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.817 LogService - Delete rows command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.855 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.855 LogService - Drop table command to drop the table project in the database null
+[INFO ] 2016-12-17 23:23:42.855 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.856 LogService - Drop database command to drop the database testdb_create
+[INFO ] 2016-12-17 23:23:42.856 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.859 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:23:42.859 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.860 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:23:42.860 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.860 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:23:42.865 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.866 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.877 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.877 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.890 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.891 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.909 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.910 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.942 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.943 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.976 LogService - Operation Successful
+[INFO ] 2016-12-17 23:23:42.976 LogService - Delete rows command on the table project in the database null
+[INFO ] 2016-12-17 23:23:42.999 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.393 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:25:10.396 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.405 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:25:10.405 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.409 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:25:10.489 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.495 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:25:10.570 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.575 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:25:10.575 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.576 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:25:10.581 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.582 LogService - Drop table command to drop the table project in the database null
+[INFO ] 2016-12-17 23:25:10.583 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.583 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:25:10.610 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.613 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:25:10.613 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.615 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:25:10.622 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.625 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:25:10.643 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.648 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:25:10.648 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.657 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:25:10.657 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.659 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:25:10.665 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.689 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:10.724 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.725 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:10.773 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.775 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:25:10.843 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.844 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:25:10.865 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.867 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:25:10.867 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.868 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:25:10.874 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.875 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:10.898 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.899 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:10.939 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.940 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:10.971 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:10.972 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.009 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.010 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.046 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.046 LogService - Select from table command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.077 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.078 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:25:11.124 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.125 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:25:11.125 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.127 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:25:11.139 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.140 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.161 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.161 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.184 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.184 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.207 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.207 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.237 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.239 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.276 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.276 LogService - Delete rows command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.319 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.319 LogService - Drop table command to drop the table project in the database null
+[INFO ] 2016-12-17 23:25:11.320 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.320 LogService - Drop database command to drop the database testdb_create
+[INFO ] 2016-12-17 23:25:11.320 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.320 LogService - Create database command to create the database testdb_create
+[INFO ] 2016-12-17 23:25:11.321 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.321 LogService - Use database command to use the database testdb_create
+[INFO ] 2016-12-17 23:25:11.321 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.321 LogService - Create table command to create the table project in the database null
+[INFO ] 2016-12-17 23:25:11.325 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.325 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.339 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.340 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.354 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.355 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.380 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.380 LogService - Insert command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.412 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.413 LogService - update table command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.448 LogService - Operation Successful
+[INFO ] 2016-12-17 23:25:11.448 LogService - Delete rows command on the table project in the database null
+[INFO ] 2016-12-17 23:25:11.473 LogService - Operation Successful
